@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @sarthak-mittal28
-- 👀 I’m interested in Cloud Computing and Literature 
-- 🌱 I’m currently learning C++ 
-- 📫 How to reach me
-- sarthakmittal0728@gmail.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-mittal28)
 <h1 align="center">Hi 👋, I'm Sarthak Mittal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-mittal28&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-mittal28" /> </p>
 
