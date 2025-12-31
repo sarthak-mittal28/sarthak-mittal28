@@ -24,4 +24,3 @@ Will update my GitHub soon in Q1 2026
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-mittal28&" alt="sarthak-mittal28" /></p>
 
-[Gopher , Animated icon , GitHub]
