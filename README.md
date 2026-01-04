@@ -1,20 +1,18 @@
 Will update my GitHub soon in Q1 2026 
 
 <h1 align="center">Hi 👋, I'm Sarthak Mittal</h1>
-<h3 align="center">I am passionate about Cloud ☁️ Computing, Go Language</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-mittal28&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-mittal28" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-mittal28" alt="sarthak-mittal28" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and Dsa**
+- 🌱 I’m currently learning AI/ML
 
-- 💬 Ask me about **Literature and Cloud Computing**
+- 💬 Ask me about **Literature
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthakmittal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakmittal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthak-mittal28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-mittal28" height="30" width="40" /></a>
+ href="https://linkedin.com/in/sarthak-mittal28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-mittal28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
