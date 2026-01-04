@@ -8,4 +8,4 @@
 
 - 🌱 I’m currently learning AI/ML
 
-- 💬 Ask me about **Literature
+- 💬 Ask me about Software Engineering, Computer Networks, Computer Architecture,
